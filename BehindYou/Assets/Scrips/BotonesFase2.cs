@@ -13,7 +13,7 @@ public class BotonesFase2 : MonoBehaviour
 
     void Start()
     {
-        Debug.Log("Agus te la comes");
+        Debug.Log("Stefano te la comes");
         
     }
 
