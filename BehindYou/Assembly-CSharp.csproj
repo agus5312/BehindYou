@@ -53,10 +53,10 @@
     <UnityVersion>2020.3.15f2</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scrips\Botones.cs" />
     <Compile Include="Assets\Scrips\Fantasmita.cs" />
     <Compile Include="Assets\Scrips\Mano.cs" />
     <Compile Include="Assets\Scrips\BotonesFase2.cs" />
+    <Compile Include="Assets\Scrips\Botones.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
